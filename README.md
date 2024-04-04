@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Cheese
+- Pasta
+- Chicken
+- Wine
